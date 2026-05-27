@@ -118,4 +118,4 @@ Além dos prompts textuais, utilizei a funcionalidade de flashcards do NotebookL
 -”Monte um exercício guiado usando GitHub Flow.”
 
 ## Resultado Visual do Estudo
-![Notebooklm](Screenshot_20260527_085603_Chrome.jpg)
+![Notebooklm](Screenshot_20260527_093056_Chrome.jpg)
